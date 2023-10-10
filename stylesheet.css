@@ -1,3 +1,45 @@
 #header {
-    font-size: 100px;
+    text-align: center;
+    font-size: 50px;
+    padding: 25px;
+}
+
+.hobby-description {
+    padding: 20px;
+    border-top: solid rgb(0, 0, 0);
+}
+
+.title {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.text {
+    padding: 10px;
+    vertical-align: middle;
+}
+
+#embeddedufc {
+    height: 315px;
+    width: 720px;
+    margin-left: 50px;
+}
+
+#goldenson {
+    height: 256px;
+    width: 200px;
+}
+
+.joe {
+    height: 256px;
+    width: 200px;
+}
+
+a:hover {
+    color: #ffffff;
+    background-color: #e73434;
+}
+
+body {
+    background-color: rgb(206, 243, 243);
 }
